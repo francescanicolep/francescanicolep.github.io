@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to My Class Website
+Owned by Francesca Nicole Posugac
 
-You can use the [editor on GitHub](https://github.com/francescanicolep/francescanicolep.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+*In this website you can see my schedule, deadlines and teachers during my 3rd year in high school*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A little background about me 
+I am a 3rd year high school student, I am currently studdying at Ateneo De Naga University
+LG 9 - Bobola B
 
-### Markdown
+# Schedule
+![alt text](https://scontent.fmnl4-1.fna.fbcdn.net/v/t1.15752-9/254579021_383321020195762_7140324190932854595_n.png?_nc_cat=103&ccb=1-6&_nc_sid=ae9488&_nc_eui2=AeFv_N9HrSeVPmkoPjxSXXF5YLdlXb0x4bRgt2VdvTHhtCDvO49HW4n7pguzC1XAe28kxt3NLzFUzTn4Ke2mvuj3&_nc_ohc=XGowY_PdEzkAX9EFVq_&_nc_ht=scontent.fmnl4-1.fna&oh=03_AVJ0iapPKZvnR8vjckTnGWt_vou7eTfgPm85NPrvNVQmGA&oe=62A31F17)
+![alt text](https://scontent.fmnl4-1.fna.fbcdn.net/v/t1.15752-9/279691503_1216225495581812_4996378393779606610_n.png?_nc_cat=104&ccb=1-6&_nc_sid=ae9488&_nc_eui2=AeHP6vMFZdmpGSOz3zcELFGvO5O5QCTpUtg7k7lAJOlS2DoF3C1_GcdBDKNtqaF5IhM4O6E1M5eG2qr9C3KTLjg7&_nc_ohc=8U7KUFkpglAAX85edW1&_nc_ht=scontent.fmnl4-1.fna&oh=03_AVJUNPNLYPvwt08N9jBvl32_XLzkjuSKBRRSKMKH3GV37w&oe=629FE657)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Deadline and Term 3 Cycle 2 Schedule
 
-```markdown
-Syntax highlighted code block
+- March 28 - Start of the Cycle 
+- April 8 - Viewing of Grades for Cycle 1
+- April 11-17 - Holy Week
+- May 6 - Deadline of PT
+- May 9 - Electiions (National and Local)
+- May 11 - Deadline of LMS activities
+- May 30 - Viewing of Grades for Cycle 2
 
-# Header 1
-## Header 2
-### Header 3
+### Teachers
 
-- Bulleted
-- List
+- Computer - Sir Jose Isagani Oloya
+- Science  - Ma'am Melanie Orquita
+- English (Adviser) - Ma'am Kimberly Serrano
+- Music & Arts - Ma'am Vidanelia Villamor 
+- PE           - Sir Paolo Jayson Navera
+- Math - Ma'am Rowena Galicia
+- AP   - Ma'am Marie Paulette Rivera 
+- CLE - Sir Reywell Dalipe 
+- Filipino - Sir Eliseo Posangco Jr.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/francescanicolep/francescanicolep.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Simple To DO List
+- [ ] GitHub Site
+- [ ] Science L17.1
+- [ ] Science How Much Did I Learn L17
+- [ ] English Elements of Short Story Activities
+- [ ] Read The Nightinagle ang The Rose
